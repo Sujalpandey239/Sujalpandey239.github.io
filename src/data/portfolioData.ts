@@ -55,7 +55,7 @@ export const PORTFOLIO_DATA = {
     location: "Delhi-NCR / Remote & Relocation Ready",
     email: "sujalpandey620@gmail.com",
     linkedin: "https://www.linkedin.com/in/sujal-pandey-03642331b/",
-    github: "https://github.com",
+    github: "https://github.com/Sujalpandey239",
     shortBio: "Fourth-year B.Tech CSE student specializing in AWS Cloud and Linux systems. Completed AWS Cloud Internship at Navodita InfoTech and certified in AWS Essentials & Cloud Fundamentals. Actively looking for Cloud Engineer and DevOps opportunities.",
     aboutBullets: [
       "Proficient in AWS core services (Lambda, S3, DynamoDB, API Gateway, IAM, CloudWatch).",

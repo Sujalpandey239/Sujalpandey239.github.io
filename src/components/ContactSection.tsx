@@ -120,7 +120,7 @@ export const ContactSection: React.FC = () => {
                 <Github className="w-5 h-5 text-white" />
                 <div>
                   <div className="font-display font-bold text-sm text-white">GitHub Repositories</div>
-                  <div className="font-mono text-xs text-zinc-400">DevOps & Cloud Projects</div>
+                  <div className="font-mono text-xs text-zinc-400">@Sujalpandey239</div>
                 </div>
               </div>
               <ArrowUpRight className="w-4 h-4 text-zinc-500 group-hover:text-white transition-colors" />
