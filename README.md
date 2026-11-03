@@ -1,8 +1,5 @@
 # Sujal Pandey - Cloud & DevOps Portfolio
 
-A modern, high-performance portfolio website engineered with **React 18**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
-
-Inspired by the dark cyber-aesthetic of [neetesh-sahu.github.io](https://neetesh-sahu.github.io/), upgraded with fluid 3D interactions, live simulators, and interactive architectural showcases.
 
 ---
 
